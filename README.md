@@ -1,3 +1,3 @@
-# html-js-imc-calculator
+# Calculadora de IMC feita com HTML e JS
 
-under construction 🛠️
+Estilização em construção 🛠️
